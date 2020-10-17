@@ -1,0 +1,33 @@
+# TODO List:
+- [x] ~~*User Authentication*~~ **[01/30/19]** - **[02/08/19]**
+    - [x] ~~*Database Models*~~ **[01/30/19]**
+    - [x] ~~*Implement Tests*~~ **[01/30/19]** - **[02/08/19]**
+    - [x] ~~*Authentication logic*~~ **[01/30/19]**
+    - [x] ~~*Protecting routes*~~ **[01/30/19]** - **[02/08/19]**
+    - [x] ~~*Api Endpoints*~~ **[01/30/19]**
+- [ ] Billing System: _Expected Finish Date:_ **[02/16/19]**
+    - [x] ~~*Database Models*~~ **[02/04/19]**
+    - [ ] Implement tests
+    - [x] ~~*Adding Bills*~~ **[02/04/19]** - **[02/11/19]**
+    - [ ] Reminder System
+    - [ ] Api Endpoints
+- [ ] Household System: _Expected Finish Date:_ **_N/A_**
+    - [ ] Database Models
+    - [ ] Implement Tests
+    - [ ] Creation Api Endpoints
+    - [ ] Joining Api Endpoints
+- [ ] Shopping List: _Expected Finish Date:_ **_N/A_**
+    - [ ] Database Models
+    - [ ] Implement Tests
+    - [ ] Api Endpoints
+- [ ] Chore List: _Expected Finish Date:_ **_N/A_**
+    - [ ] Database Models
+    - [ ] Implement Tests
+    - [ ] Api Endpoints
+- [ ] Notes: _Expected Finish Date:_ **_N/A_**
+    - [ ] Database Models
+    - [ ] Implement Tests
+    - [ ] Api Endpoints
+- [ ] Group Chat: _Expected Finish Date:_ **_N/A_**
+    - [ ] Implement SocketIO server in flask
+    - [ ] Incorperate chat history
